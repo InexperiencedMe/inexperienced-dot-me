@@ -1,12 +1,11 @@
 ---
 title: "Memetic Culture"
-description: "on human connection"
+subtitle: "on human connection"
 date: "2024-12-22"
-tags: ["philosophy", "crypto", "culture"]
-preview: "/images/memetic-culture/preview.png"
+thumbnail: "/postsImages/memetic-culture/thumbnail.png"
 ---
 
-![/images/memetic-culture/preview.png](/images/memetic-culture/preview.png)
+![/postsImages/memetic-culture/thumbnail.png](/postsImages/memetic-culture/thumbnail.png)
 
 
 ### Preamble
@@ -83,7 +82,7 @@ Some people have mistakingly been lead to belive that everyone is entitled to th
 
 Short-form engagement only further fuels the fire. Don't be mistaken as it is nothing but a tool for marketing.
 
-![/images/memetic-culture/gakonst-tweet.png](/images/memetic-culture/gakonst-tweet.png)
+![/postsImages/memetic-culture/gakonst-tweet.png](/postsImages/memetic-culture/gakonst-tweet.png)
 
 Let me remind you that the only thing that differs you from an animal is your ability to develop and preserve your culture.
 
