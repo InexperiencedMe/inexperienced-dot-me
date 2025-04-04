@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { MdArrowBack, MdOutlineDarkMode, MdOutlineLightMode, MdOutlineQuestionMark } from "react-icons/md";
+import { MdArrowBack, MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
 
 export const MetaButton = (props) => {
   return (
@@ -31,28 +31,38 @@ export function BackButton() {
 }
 
 export function ThemeToggle() {
-  const [isDark, setIsDark] = useState(true);
-  const path = usePathname();
-  const isMainPage = path === "/";
-
-  const handleToggle = () => {
-    setIsDark(!isDark);
-  };
+  const [isDark, setIsDark] = useState(() => {
+    if (typeof window !== "undefined") {
+      const stored = localStorage.getItem("theme");
+      if (stored) return stored === "dark";
+      return window.matchMedia("(prefers-color-scheme: dark)").matches;
+    }
+    return false;
+  });
 
   useEffect(() => {
-    if (typeof document === "undefined") return;
-    if (isDark) {
-      document.documentElement.classList.add("dark");
-    } else {
-      document.documentElement.classList.remove("dark");
+    if (typeof document !== "undefined") {
+      if (isDark) {
+        document.documentElement.classList.add("dark");
+        localStorage.setItem("theme", "dark");
+      } else {
+        document.documentElement.classList.remove("dark");
+        localStorage.setItem("theme", "light");
+      }
     }
   }, [isDark]);
 
+  const handleToggle = () => {
+    setIsDark(prev => !prev);
+  };
+
   return (
-    <MetaButton>
-      <button type="button" className="rounded-full flex items-center justify-center" onClick={handleToggle}>
-        {isDark ? <MdOutlineLightMode size={22} /> : <MdOutlineDarkMode size={22} />}
-      </button>
-    </MetaButton>
+    <button
+      type="button"
+      className="rounded-full flex items-center justify-center"
+      onClick={handleToggle}
+    >
+      {isDark ? <MdOutlineLightMode size={22} /> : <MdOutlineDarkMode size={22} />}
+    </button>
   );
 }

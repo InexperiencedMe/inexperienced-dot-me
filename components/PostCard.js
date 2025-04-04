@@ -20,7 +20,7 @@ const PostCard = (props) => {
   if (days < 30)
     tags.push(
       <span
-        className="text-xs text-accent dark:text-dark-accent mr-1 p-1 py-0.5 border secondary-border leading-3 rounded-lg"
+        className="text-xs text-accent mr-1 p-1 py-0.5 border secondary-border leading-3 rounded-lg"
         key={"newtag"}
       >
         new

@@ -9,18 +9,9 @@ export const Header = () => {
         <div className="hidden sm:flex w-0 h-0 sm:w-8 sm:h-8">
           <BackButton />
         </div>
-        <Link className="text-text" href="/blog">
-          blog
-          <br />
-        </Link>
-        <Link className="text-text" href="/about">
-          about
-          <br />
-        </Link>
-        <Link className="text-text" href="/contact">
-          contact
-          <br />
-        </Link>
+          <Link href="/blog">     blog      <br/> </Link>
+          <Link href="/about">    about     <br/> </Link>
+          <Link href="/contact">  contact   <br/> </Link>
         <div className="sm:flex w-0 h-0 sm:w-8 sm:h-8">
           <ThemeToggle />
         </div>
