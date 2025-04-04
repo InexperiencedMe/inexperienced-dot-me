@@ -1,12 +1,11 @@
 ---
 title: "Fair Play"
-description: "on multiplayer asymmetry"
+subtitle: "on multiplayer asymmetry"
 date: "2021-07-08"
-tags: ["game-design"]
-preview: "/images/fair-play/preview.png"
+thumbnail: "/postsImages/fair-play/thumbnail.png"
 ---
 
-![/images/fair-play/preview.png](/images/fair-play/preview.png)
+![/postsImages/fair-play/thumbnail.png](/postsImages/fair-play/thumbnail.png)
 
 
 ## Preamble
@@ -40,7 +39,7 @@ It is essential to comprehend the fundamental differences between madness play a
 ## Mad-fair Play
 To address this issue, I propose the concept of a unique challenge that leverages the player's real skills to create unique gameplay experiences. To better understand this concept, let's refer to _"The Art of Game Design"_, chapter 10 of which describes the relationship between a player's skill level and the level of challenge required to maintain their interest in the game.
 
-![/images/fair-play/unique-challenge.png](/images/fair-play/unique-challenge.png)
+![/postsImages/fair-play/unique-challenge.png](/postsImages/fair-play/unique-challenge.png)
 
 To illustrate the concept, let's modify Jesse's diagram in this chapter to include the challenge uniqueness axis within the flow channel. It lies there since we:
 1. Need to continuously increase the amount of challenge required.

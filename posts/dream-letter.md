@@ -1,12 +1,11 @@
 ---
 title: "Dream Letter"
-description: "on unity"
+subtitle: "on unity"
 date: "2024-05-23"
-tags: ["philosophy"]
-preview: "/images/dream-letter/preview.png"
+thumbnail: "/postsImages/dream-letter/thumbnail.png"
 ---
 
-![/images/dream-letter/preview.png](/images/dream-letter/preview.png)
+![/postsImages/dream-letter/thumbnail.png](/postsImages/dream-letter/thumbnail.png)
 
 To fellow citizens of the world,
 

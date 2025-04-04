@@ -1,7 +1,8 @@
-
+import { readdirSync, readFileSync } from "node:fs";
+import matter from "gray-matter";
 
 function getPostsMetadata() {
-  const postsPath = path.join(process.cwd(), "/posts/");
+  const postsPath = "/posts/"
   const files = readdirSync(postsPath);
   const markdownFiles = files.filter((file) => file.endsWith(".md"));
 
