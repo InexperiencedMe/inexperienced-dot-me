@@ -1,8 +1,9 @@
 import { readdirSync, readFileSync } from "node:fs";
 import matter from "gray-matter";
+import path from "node:path";
 
 function getPostsMetadata() {
-  const postsPath = "/posts/"
+  const postsPath = path.join(process.cwd(), "/posts/");
   const files = readdirSync(postsPath);
   const markdownFiles = files.filter((file) => file.endsWith(".md"));
 
@@ -10,15 +11,15 @@ function getPostsMetadata() {
     .map((file) => {
       const fileContents = readFileSync(`${postsPath}${file}`, "utf-8");
       const metadata = matter(fileContents);
-      const filename = file.replace(".md", "");
+      const slug = file.replace(".md", "");
 
       return {
         title: metadata.data.title,
-        description: metadata.data.description,
+        subtitle: metadata.data.subtitle,
         date: metadata.data.date,
-        tags: metadata.data.tags,
-        preview: metadata.data.preview,
-        filename: filename};})
+        thumbnail: metadata.data.thumbnail,
+        filename: file,
+        slug: slug};})
     .sort((a, b) => {
       const first = Date.parse(a.date);
       const second = Date.parse(b.date);
