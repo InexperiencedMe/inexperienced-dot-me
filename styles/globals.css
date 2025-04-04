@@ -22,16 +22,22 @@
     --accent:               #651a20;
 }
 
-  html::-webkit-scrollbar {
-    background: transparent; /* Chrome/Safari/Webkit */
-    width: 0px;
-  }
-      
-  html {
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none;  /* IE 10+ */
-  }
-  
-  ::selection {
-    background: var(--accent) 
-  }
+html::-webkit-scrollbar {
+  background: transparent; /* Chrome/Safari/Webkit */
+  width: 0px;
+}
+    
+html {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+}
+
+::selection {
+  background: var(--accent) 
+}
+
+.active-bg {
+  background: linear-gradient(var(--accent), var(--accent)) padding-box, 
+              linear-gradient(45deg, #ff33ccee, #cc77ffee) border-box;
+  border: 1px solid transparent;
+}
