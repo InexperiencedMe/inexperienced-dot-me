@@ -13,7 +13,7 @@ function PostContent({ post }) {
   return (
     <article
       className={
-        "z-[10] max-w-2xl rounded-xl p-2 py-8 prose prose-img:rounded-xl"
+        "z-[10] max-w-2xl rounded-xl p-2 py-8 prose prose-lg dark:prose-invert prose-foreground prose-img:rounded-xl prose-p:text-justify"
       }
     >
       <h1 className="mb-2 text-center">{post.data.title}</h1>

@@ -11,16 +11,16 @@
 
 :root {
     --foreground:           #191817;
-    --foreground-secondary: #3c3c3c;
+    --foreground-secondary: #494949;
     --background:           #f8f8f8;
     --accent:               #cc3340;
   }
 
 .dark {
-    --foreground:           #cbcbcb;
-    --foreground-secondary: #9c9c9c;
+    --foreground:           #fbfbfb;
+    --foreground-secondary: #a7a7a7;
     --background:           #000000;
-    --accent:               #651a20;
+    --accent:               #6f1d24;
 }
 
 html::-webkit-scrollbar {
