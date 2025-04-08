@@ -27,7 +27,6 @@ function PostContent({ post }) {
 
 export default async function PostPage(props) {
   const params = await props.params;
-  console.log("Params in PostPage:", params);
   const post = getPostContent(params.slug);
 
   return (

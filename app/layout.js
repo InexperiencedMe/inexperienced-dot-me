@@ -1,4 +1,3 @@
-import { AnimatePresence } from "framer-motion";
 import "@/styles/globals.css";
 import { Header } from "@/components/Header";
 import { fredoka } from "@/styles/fonts";
@@ -16,9 +15,9 @@ export default function RootLayout({children}) {
       </head>
       <body
         className={`bg-background disable-scrollbars text-foreground transition-all ease-in-out delay-150
-        place-items-center min-h-screen flex flex-col justify center relative ${fredoka.className}`}>
+                    place-items-center min-h-screen flex flex-col justify center relative ${fredoka.className}`}>
       <Header />
-      <AnimatePresence mode="wait">{children}</AnimatePresence>
+      {children}
       </body>
     </html>
   );
