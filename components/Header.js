@@ -10,7 +10,7 @@ export const Header = () => {
           <BackButton />
         </div>
           <Link href="/blog">     blog      <br/> </Link>
-          <Link href="/about">    about     <br/> </Link>
+          <Link href="/about">    about me    <br/> </Link>
           <Link href="/contact">  contact   <br/> </Link>
         <div className="sm:flex w-0 h-0 sm:w-8 sm:h-8">
           <ThemeToggle />
