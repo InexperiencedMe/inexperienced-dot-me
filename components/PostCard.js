@@ -19,8 +19,8 @@ const PostCard = (props) => {
 
           <div className="flex flex-col gap-1 sm:gap-2 w-full">
             <h1 className="font-extrabold text-xl">{props.title}</h1>
-            <p className="text-base flex-grow max-w-sm">{props.subtitle}</p>
-            <p className="text-sm text-secondary-text">{props.date}</p>
+            <p className="text-lg flex-grow max-w-sm text-foreground-secondary">{props.subtitle}</p>
+            <p className="text-sm text-foreground-secondary">{props.date}</p>
           </div>
         </div>
       </Card>
