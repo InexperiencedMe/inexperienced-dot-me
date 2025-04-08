@@ -1,0 +1,10 @@
+- Get good at Tailwind and go through all the options I'm currently using (why is Inexperienced Me on 2 lines)
+- Port my old blog posts and use them instead of kualta's
+- Make about me page
+- Make contact page
+- Make newsletter functionality
+- Auto patch vulnerabilities
+- Smooth page transitions
+- Ensure decent mobile experience
+- Additional visual effects
+- Deploy it at inexperienced.me
