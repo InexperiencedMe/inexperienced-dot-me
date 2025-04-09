@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { MdArrowBack, MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
+import { MdOutlineHome  , MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
 
 export const MetaButton = (props) => {
   return (
@@ -14,17 +14,10 @@ export const MetaButton = (props) => {
 };
 
 export function BackButton() {
-  const path = usePathname();
-  const isMainPage = path === "/";
-
-  if (isMainPage) {
-    return <div className="sm:w-8 sm:h-8" />;
-  }
-
   return (
     <MetaButton>
       <Link href={"/"}>
-        <MdArrowBack size={22} />
+        <MdOutlineHome size={22} />
       </Link>
     </MetaButton>
   );

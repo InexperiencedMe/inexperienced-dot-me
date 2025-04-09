@@ -11,11 +11,7 @@ export const generateStaticParams = async () => {
 
 function PostContent({ post }) {
   return (
-    <article
-      className={
-        "z-[10] max-w-2xl rounded-xl p-2 py-8 prose prose-lg dark:prose-invert prose-foreground prose-img:rounded-xl prose-p:text-justify"
-      }
-    >
+    <article className={"p-2 py-8 prose prose-lg dark:prose-invert prose-img:rounded-xl prose-p:text-justify"}>
       <h1 className="mb-2 text-center">{post.data.title}</h1>
       <h3 className="mb-6 mt-0 text-center">{post.data.subtitle}</h3>
       <Markdown>
@@ -30,7 +26,7 @@ export default async function PostPage(props) {
   const post = getPostContent(params.slug);
 
   return (
-    <div className="max-w-2xl w-full relative mb-10">
+    <div className="max-w-2xl mb-10">
       <PostContent post={post} />
     </div>
   );

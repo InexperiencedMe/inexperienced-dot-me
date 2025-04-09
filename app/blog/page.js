@@ -11,11 +11,9 @@ const HomePage = () => {
   const posts = postMetadata.map((post) => <PostCard key={post.filename} {...post} />);
 
   return (
-    <div className="max-w-2xl">
-        <div className="flex flex-col place-items-center justify-center gap-4 mb-20">
-          {posts}
-        </div>
-    </div>
+      <div className="flex flex-col place-items-center justify-center gap-4 mb-20">
+        {posts}
+      </div>
   );
 };
 
