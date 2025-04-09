@@ -14,8 +14,7 @@ export default function RootLayout({children}) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </head>
       <body
-        className={`bg-background disable-scrollbars text-foreground transition-all ease-in-out delay-150
-                    place-items-center min-h-screen flex flex-col justify center relative ${fredoka.className}`}>
+        className={`bg-background text-foreground place-items-center min-h-screen flex flex-col relative ${fredoka.className}`}>
       <Header />
       {children}
       </body>
