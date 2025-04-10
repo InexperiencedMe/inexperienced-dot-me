@@ -37,6 +37,7 @@ This is a huge difference. HUUGE. **HUUUUGEE.** Abundance of choices is paralyzi
 
 Think about it for a second, as we’re not talking about jams here (I like jams, though). Doesn’t this ring a bell when you read about my struggle with having too many possible things to learn?
 
+
 **Limiting yourself, enables you to focus on what matters.**
 
 This is why digital minimalism works. This is why daily schedules work. This is why deep work works. This is why Parkinson’s law works. This is why Pomodoro Technique and setting timers work. This is why everything works.
