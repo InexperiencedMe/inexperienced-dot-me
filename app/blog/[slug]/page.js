@@ -11,7 +11,8 @@ export const generateStaticParams = async () => {
 
 function PostContent({ post }) {
   return (
-    <article className={"p-2 py-8 prose prose-lg dark:prose-invert prose-img:rounded-lg prose-p:text-justify prose-img:w-full"}>
+    <article className={`p-2 py-8 prose prose-md md:prose-lg lg:prose-xl dark:prose-invert prose-img:rounded-lg prose-p:text-justify prose-em:opacity-40 prose-img:w-full
+                         prose-a:text-cyan-500 prose-a:no-underline prose-a:hover:underline`}>
       <h1 className="mb-2 text-center">{post.data.title}</h1>
       <h3 className="mb-6 mt-0 text-center">{post.data.subtitle}</h3>
       <Markdown>
