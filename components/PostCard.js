@@ -20,7 +20,7 @@ const PostCard = (props) => {
           <div className="flex flex-col w-full">
             <h1 className="text-2xl font-bold ">{props.title}</h1>
             <p className="text-xl text-foreground-secondary">{props.subtitle}</p>
-            <p className="text-sm text-foreground-secondary">{props.date}</p>
+            <p className="text-sm text-foreground-secondary">{new Date(props.date).toLocaleDateString("en-GB")}</p>
           </div>
         </div>
       </Card>
