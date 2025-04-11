@@ -1,6 +1,6 @@
 ---
 title: "Back at uni. How great."
-subtitle: "rant on education system"
+subtitle: "rant on the education system"
 date: "2021-12-17"
 thumbnail: "/postsImages/back-at-uni-how-great/thumbnail.png"
 ---
@@ -108,6 +108,7 @@ Now my problem is clearer. Because studying for only the subjects I care about w
 
 
 ## Studying methods to try out
+
 It seems that I'm not studying optimally. I want to try something new. There are a few ideas on my mind.
 
 
@@ -126,7 +127,6 @@ The downside of this approach is that I'd have to either force my current friend
 
 Another approach is studying profoundly by myself. A lot. And then write a blog post about it or even teach my friends. Teaching others is an extremely good way of learning, as I mentioned earlier, but also this is much more doable. Because I don't have to rely on anyone to study with me, I just need someone to listen to me at the end.
 
-
 My doubt here is that it would take way too much time for me to feel prepared. Which is fine, understanding requires time. It just wouldn't be so easy to pull off with everything that I'm required to learn. But I will definitely try it out.
 
 ### Intensive learning periods
@@ -134,9 +134,9 @@ My doubt here is that it would take way too much time for me to feel prepared. W
 The name could be better, but it'll do for now. The idea itself is strongly related to the previous one, but the concept is a little different. It takes the idea of themed years, that was introduced to me by CGP Grey, to a next level.
 
 <iframe
-  class="relative top-0 left-0 w-full h-full aspect-video"
-  src="https://www.youtube.com/embed/zihoyz0u_cs"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  class="blogVideo"
+  src="https://www.youtube.com/embed/NVGuFdX5guE"
+  allow="clipboard-write; encrypted-media"
   allowFullScreen
 ></iframe>
 
