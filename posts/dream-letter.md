@@ -2,10 +2,10 @@
 title: "Dream Letter"
 subtitle: "on unity"
 date: "2024-05-23"
-thumbnail: "/postsImages/dream-letter/thumbnail.png"
+thumbnail: "/postsFiles/dream-letter/thumbnail.png"
 ---
 
-![/postsImages/dream-letter/thumbnail.png](/postsImages/dream-letter/thumbnail.png)
+![/postsFiles/dream-letter/thumbnail.png](/postsFiles/dream-letter/thumbnail.png)
 
 To fellow citizens of the world,
 

@@ -2,7 +2,7 @@
 title: "Dreams"
 subtitle: "and my hypothesis"
 date: "2022-03-07"
-thumbnail: "/postsImages/dreams/thumbnail.png"
+thumbnail: "/postsFiles/dreams/thumbnail.png"
 ---
 
 Too mysterious to understand? Too ephemeral to discover and analyze? Yes, and no.
@@ -23,7 +23,7 @@ Then I had a dream every now and then, nothing too exciting. It continued for ab
 
 Strangely enough, one day something changed. I still cannot understand what happened despite my best effort. I just started having a ton of dreams. A ton of them, compared to what I used to have. 
 
-![/postsImages/dreams/guysIdkWhatsHappening.png](/postsImages/dreams/guysIdkWhatsHappening.png)
+![/postsFiles/dreams/guysIdkWhatsHappening.png](/postsFiles/dreams/guysIdkWhatsHappening.png)
 
 I just don't know. It was not gradual. Some higher being snapped their fingers and there I was with a bunch of new data-points to analyze.
 
@@ -42,7 +42,7 @@ A quick side-note: The blurred tags are either someone's initials or names, just
 
 So you can see on your own now that it's unlikely that I made all that up. Even if the tags are similar, the topics, environment and events vary a lot. And please treat the tags really loosely. I still figure it all out and I don't have any good system for making the tags. I mostly write whatever comes to my mind, without being too strict.
 
-![/postsImages/dreams/dreamsJournal.png](/postsImages/dreams/dreamsJournal.png)
+![/postsFiles/dreams/dreamsJournal.png](/postsFiles/dreams/dreamsJournal.png)
 
 
 ### Why do dreams exist?
@@ -55,12 +55,12 @@ To answer these questions, I'd start from the very beginning. Namely, sleep. And
 
 Sleep has benefits and there is no doubt about it. You can read about it everywhere, how brain during sleep performs memory-consolidation moving memories from short to long term memory, how it gets rid of the toxins, how it replays the events to figure out what is important and what isn't, how the growth hormone is released for our bodies to regenerate.
 
-![/postsImages/dreams/growthHormoneSleepGraph.png](/postsImages/dreams/growthHormoneSleepGraph.png)
+![/postsFiles/dreams/growthHormoneSleepGraph.png](/postsFiles/dreams/growthHormoneSleepGraph.png)
 
 
 For simplification, I like to think that during sleep we regenerate, strengthen our memories and then connect some dots. **In this exact order** because the REM (Rapid Eye Movement) phase of sleep is the one where we dream the most, where our brains try to puzzle new information out. I used the word puzzle on purpose - People that slept over a pattern-recognition puzzle, were 2.5 times more likely to figure it out over the people who either spent a whole day or night awake.
 
-![/postsImages/dreams/sleepPhases.png](/postsImages/dreams/sleepPhases.png)
+![/postsFiles/dreams/sleepPhases.png](/postsFiles/dreams/sleepPhases.png)
 Where: Stage 1 - REM phase, Stage 4 - Deep, regenerative sleep
 
 Back on track. Sleep = Regeneration -> Strengthening memories -> Connecting the dots
@@ -78,7 +78,7 @@ My thought as a kid was that of course dreams also give us some advantages becau
 
 Surprisingly enough, animals also have dreams. In one experiment scientists "removed the sleep paralysis" from a sleeping cat. I cannot find a video that I got this from, but for some reason I remembered the fact and a little bit of googling has lead me to this video:
 
-<VideoEmbed url="https://www.youtube.com/embed/Js50Orx94iM?si=Tmk_qZUIem3d7il2&amp;start=3"/>
+<VideoEmbed src="https://www.youtube.com/embed/Js50Orx94iM?si=Tmk_qZUIem3d7il2&amp;start=3"/>
 
 It means that humans are not too special for having dreams. It also slightly suggests that dreams are in fact important for our survival.
 
@@ -111,7 +111,7 @@ Living organisms are antifragile - they constantly anticipate what might go wron
 
 If you start weightlifting and you apply stress to your muscles, with time they will not simply strengthen themselves to withstand that stress from the past. They will grow, so that they can withstand even greater stress than they were exposed to.
 
-![/postsImages/dreams/biologyOvershoot.png](/postsImages/dreams/biologyOvershoot.png)
+![/postsFiles/dreams/biologyOvershoot.png](/postsFiles/dreams/biologyOvershoot.png)
 
 Biological organisms don't adapt. They overshoot, anticipating increase of the environmental factor. If it doesn't increase - the system goes to an equilibrium.
 
@@ -146,7 +146,7 @@ Then. Is it good that I remember that much or no?
 
 I've heard people say that they don't want to remember their dreams because it's not something too pleasant.
 
-![/postsImages/dreams/scaryVividDreams.png](/postsImages/dreams/scaryVividDreams.png)
+![/postsFiles/dreams/scaryVividDreams.png](/postsFiles/dreams/scaryVividDreams.png)
 
 At first I didn't understand, but after experiencing it myself, now I know.
 

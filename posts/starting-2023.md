@@ -2,7 +2,7 @@
 title: "Starting 2023"
 subtitle: "A plan to get up"
 date: "2023-03-03"
-thumbnail: "/postsImages/starting-2023/thumbnail.png"
+thumbnail: "/postsFiles/starting-2023/thumbnail.png"
 ---
 
 
@@ -78,11 +78,11 @@ Well, I don't have a big choice other than doing my best.
 
 At the beginning of this year, I made this video:
 
-<VideoEmbed url="https://www.youtube.com/embed/Rw3fGuVjouk?si=0Bgtk0Axm5xahtix"/>
+<VideoEmbed src="https://www.youtube.com/embed/Rw3fGuVjouk?si=0Bgtk0Axm5xahtix"/>
 
 In the video I made New Year's promises, that are manifestation of the desire to change this year:
 
-![/postsImages/starting-2023/contractFor2023.png](/postsImages/starting-2023/contractFor2023.png)
+![/postsFiles/starting-2023/contractFor2023.png](/postsFiles/starting-2023/contractFor2023.png)
 
 It’s one of the best ways to handle the situation that I could think of: Going back to my roots of structuring life to have a solid ground to walk on. No matter how shaky everything is, I know that I'm going to read before going to sleep. That's a mental comfort.
 
@@ -107,11 +107,11 @@ Next time will be better.
 
 My symbol of 2022 is Nova Imperator, my main Raven class from the game Elsword, that I also put on the PCB I was working on:
 
-![/postsImages/starting-2023/coolHeadedTactician.png](/postsImages/starting-2023/coolHeadedTactician.png)
+![/postsFiles/starting-2023/coolHeadedTactician.png](/postsFiles/starting-2023/coolHeadedTactician.png)
 
-![/postsImages/starting-2023/novaImperator.png](/postsImages/starting-2023/novaImperator.png)
+![/postsFiles/starting-2023/novaImperator.png](/postsFiles/starting-2023/novaImperator.png)
 
-![/postsImages/starting-2023/uniPCB.png](/postsImages/starting-2023/uniPCB.png)
+![/postsFiles/starting-2023/uniPCB.png](/postsFiles/starting-2023/uniPCB.png)
 
 We have to keep going. We cannot let them win.
 

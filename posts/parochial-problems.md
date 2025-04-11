@@ -2,10 +2,10 @@
 title: "Parochial Problems"
 subtitle: "an elevator to exponential"
 date: "2023-11-06"
-thumbnail: "/postsImages/parochial-problems/thumbnail.png"
+thumbnail: "/postsFiles/parochial-problems/thumbnail.png"
 ---
 
-![/postsImages/parochial-problems/thumbnail.png](/postsImages/parochial-problems/thumbnail.png)
+![/postsFiles/parochial-problems/thumbnail.png](/postsFiles/parochial-problems/thumbnail.png)
 ## Preamble
 
 The following was a short conversation between me (**K**) and my new friend (**Y**), who recently arrived from West Africa to pursue their 2nd Masters degree in the city where I was living at the time. Retold from memory and edited for brevity
@@ -40,7 +40,7 @@ In retrospect I do realize how off my thinking was, as I fell to the all so comm
 3. Be considerate to each other, no matter how important the issue at hand seems to you. We haven’t arrived there yet, and we might never will
 4. Be mindful about the reasons why you're doing what you're doing. My thoughts on this from one of my recent conversations:
 
-![/postsImages/parochial-problems/hedging-bets.png](/postsImages/parochial-problems/hedging-bets.png)
+![/postsFiles/parochial-problems/hedging-bets.png](/postsFiles/parochial-problems/hedging-bets.png)
 
 5. Perhaps I'm using the word parochial a little bit too much in my conversations. I blame _David Deutsch and [The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)_ for that.
 

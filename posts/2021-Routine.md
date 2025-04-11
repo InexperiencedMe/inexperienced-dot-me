@@ -2,7 +2,7 @@
 title: "2021 Routine"
 subtitle: "routine and work update"
 date: "2021-08-15"
-thumbnail: "/postsImages/2021-routine/thumbnail.png"
+thumbnail: "/postsFiles/2021-routine/thumbnail.png"
 ---
 
 At first, I wanted to write about my work only when something significant happens. But when I think about it now, I’d rather keep this site as authentic as possible and note my everyday life just as I do it in my journal. Also, it will keep me accountable for all of my ventures. As a consequence, when I don’t fulfill my goals, I will not only let myself down, but also someone else… Okay nobody is reading it, but potentially someone could, so that’s enough to change the way my brain operates.
@@ -22,7 +22,7 @@ But it’s working, as you can see it on the graph of my Rapid Ranking on chess.
 
 But it will not work for ever. I just started from a really low level, so I could get better by only playing. But the time for more deliberate trainings and exercises has come.
 
-![/postsImages/2021-routine/thumbnail.png](/postsImages/2021-routine/thumbnail.png)
+![/postsFiles/2021-routine/thumbnail.png](/postsFiles/2021-routine/thumbnail.png)
 
 Yes, I am still pretty bad, but the progress is there. A new account on chess.com starts with 800 ranking points that I quickly lost. But then, there is a steady progress and currently I am on 853 points. I also marked the day that I started playing every day – around 12th of June.
 
@@ -48,7 +48,7 @@ Yes, there is 2 of me in my head. Or even more. Isn't that normal? Oh, okay...
 
 Anyways, I will not provide you will a lot of details here as I would have to explain my method of learning and everything, which I’d like to leave for the actual video/post about my story of learning Dvorak. All I can say is now, for the documenting purposes, that I’ve mastered Home Row Position and soon, I’ll have mastered my index fingers. I’m not focusing yet on my middle and ring fingers, since I want to have strong foundation before moving on.
 
-![/postsImages/2021-routine/ratatype.png](/postsImages/2021-routine/ratatype.png)
+![/postsFiles/2021-routine/ratatype.png](/postsFiles/2021-routine/ratatype.png)
 
 The site that I use for learning Dvorak is called ratatype.com If anyone was interested.
 

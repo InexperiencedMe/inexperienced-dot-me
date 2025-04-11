@@ -2,7 +2,7 @@
 title: "Essentialism"
 subtitle: "decide what's important"
 date: "2021-09-12"
-thumbnail: "/postsImages/essentialism/thumbnail.png"
+thumbnail: "/postsFiles/essentialism/thumbnail.png"
 ---
 
 As I have promised, here are my thoughts after reading a great book - "Essentialism" by Greg McKeown.
@@ -22,7 +22,7 @@ First thing that probably crossed your mind is: "That sounds BOOOOORIIIING".  Th
 
 > One paradox of Essentialism is that Essentialist actually explore more options than their non-Essentialist counterparts. Non-Essentialists get excited by virtually everything and thus react to everything. But because they are so busy pursuing every opportunity and idea they actually explore less. The way of the Essentialist, on the other hand, is to explore and evaluate a broad set of options before committing to any. Because Essentialists will commit and "go big" on only the vital few ideas or activities, they explore more options at first to ensure they pick the right one later.
 
-![/postsImages/essentialism/essentialistEnergy.png](/postsImages/essentialism/essentialistEnergy.png)
+![/postsFiles/essentialism/essentialistEnergy.png](/postsFiles/essentialism/essentialistEnergy.png)
 
 That's how we get to the essence of essentialism, so to speak. The core. It's all about doing a profound research and then prioritizing your options. It works wonders for me. It makes everything in life more lightweight. It frees a lot of your space. It makes hard decisions easy with no regrets.
 

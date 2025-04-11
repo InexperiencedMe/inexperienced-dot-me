@@ -2,10 +2,10 @@
 title: "Singularity Tomorrow"
 subtitle: "on predictions"
 date: "2024-01-16"
-thumbnail: "/postsImages/singularity-tomorrow/thumbnail.png"
+thumbnail: "/postsFiles/singularity-tomorrow/thumbnail.png"
 ---
 
-![/postsImages/singularity-tomorrow/thumbnail.png](/postsImages/singularity-tomorrow/thumbnail.png)
+![/postsFiles/singularity-tomorrow/thumbnail.png](/postsFiles/singularity-tomorrow/thumbnail.png)
 
 ## Preamble
 Humans are terrible at predicting accelerating future. Our brains are designed for short-term survival, not long-term planning. We struggle to understand exponential growth, our predictions are easily swayed by framing, and even when we're right, our predictions are still too small and biased to be useful.
@@ -47,7 +47,7 @@ Prediction markets are more objective because they are not based on individual e
 The notion of "everything being priced in" from the traditional markets, has a more positive connotation here. As information flows into the market, prices adjust accordingly, reflecting the collective wisdom of traders and giving you a nice assessment of future probabilities.
 
 ## Best predictions don't make best plans
-![/postsImages/singularity-tomorrow/predicted.jpg](/postsImages/singularity-tomorrow/predicted.jpg)
+![/postsFiles/singularity-tomorrow/predicted.jpg](/postsFiles/singularity-tomorrow/predicted.jpg)
 
 Predictions, no matter how sophisticated, are inherently limited by their reliance on historical data and current trends. They fail to account for the unpredictable nature of human behavior, and the significance of human agency.
 
