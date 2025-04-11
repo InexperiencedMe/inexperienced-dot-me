@@ -22,7 +22,12 @@ Subtitle "The freedom of Setting Boundaries" conveys the main message behind it.
 
 Reading the chapter got me thinking, but then YouTube recommended me the video Why are you Uncertain, Unfocused and Anxious? What should we do about it? by What I’ve learned.
 
-<iframe width="100%" height="394" src="https://www.youtube.com/embed/GaJmw54BMcw?si=30A6OlNZJB8kngoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe
+  class="blogVideo"
+  src="https://www.youtube.com/embed/GaJmw54BMcw?si=30A6OlNZJB8kngoQ"
+  allow="clipboard-write; encrypted-media"
+  allowFullScreen
+></iframe>
 
 This video got me amazed, starting a revolution in my head. I connected some distant thoughts and the seed, that I mentioned earlier, turned into a blossoming plant. Can’t wait for the fruits to show up.
 
@@ -46,7 +51,12 @@ Deliberately choosing to set your boundaries and thus, limiting your options, is
 
 Now I remembered one more video from What I’ve Learned: Willpower is for Losers. Wow, while writing this post I’m connecting even more dots.
 
-<iframe width="100%" height="394" src="https://www.youtube.com/embed/k2Wcu6aGyz8?si=Tfu_rGzQwGxWRgHZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe
+  class="blogVideo"
+  src="https://www.youtube.com/embed/k2Wcu6aGyz8"
+  allow="clipboard-write; encrypted-media"
+  allowFullScreen
+></iframe>
 
 <center>*It’s for the those of you that would like to explore the topic even more*</center>
 

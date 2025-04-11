@@ -6,7 +6,7 @@ import { MdOutlineHome  , MdOutlineDarkMode, MdOutlineLightMode } from "react-ic
 
 export const MetaButton = (props) => {
   return (
-    <div className="w-8 h-8 flex items-center justify-center rounded-md active:text-secondary-text active:dark:text-secondary-text">
+    <div className="w-8 h-8 flex items-center justify-center rounded-md">
       {props.children}
     </div>
   );

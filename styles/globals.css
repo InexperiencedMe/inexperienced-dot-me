@@ -50,3 +50,9 @@ html {
         }
   }
 }
+
+@layer components {
+  .blogVideo {
+    @apply relative w-full aspect-video rounded-lg;
+  }
+}
