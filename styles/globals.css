@@ -35,9 +35,9 @@ html {
   -ms-overflow-style: none;  /* IE 10+ */
 }
 
-/* ::selection {
+::selection {
   background: var(--accent) 
-} */
+}
 
 @utility prose {
   blockquote {

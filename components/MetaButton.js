@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { MdOutlineHome  , MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
+import { MdArrowBack, MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
 
 export const MetaButton = (props) => {
   return (
@@ -16,7 +16,7 @@ export function BackButton() {
   return (
     <MetaButton>
       <Link href={"/"}>
-        <MdOutlineHome size={22} />
+        <MdArrowBack size={22} />
       </Link>
     </MetaButton>
   );
@@ -51,7 +51,7 @@ export function ThemeToggle() {
   return (
     <button
       type="button"
-      className="rounded-full flex items-center justify-center"
+      className="rounded-full flex items-center justify-center cursor-pointer"
       onClick={handleToggle}
     >
       {isDark ? <MdOutlineLightMode size={22} /> : <MdOutlineDarkMode size={22} />}
