@@ -6,3 +6,4 @@
 - Ensure decent mobile experience
 - Additional visual effects
 - Deploy it at inexperienced.me
+- Make stats functionality
