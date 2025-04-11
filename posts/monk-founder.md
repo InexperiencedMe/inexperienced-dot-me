@@ -2,10 +2,10 @@
 title: "Monk Founder"
 subtitle: "on suffering"
 date: "2024-09-17"
-thumbnail: "/postsImages/monk-founder/thumbnail.png"
+thumbnail: "/postsFiles/monk-founder/thumbnail.png"
 ---
 
-![/postsImages/monk-founder/thumbnail.png](/postsImages/monk-founder/thumbnail.png)
+![/postsFiles/monk-founder/thumbnail.png](/postsFiles/monk-founder/thumbnail.png)
 
 
 > Each of you is perfect the way you are, and you can use a little improvement. <br> _- Shunryū Suzuki_

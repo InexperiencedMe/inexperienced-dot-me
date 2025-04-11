@@ -2,7 +2,7 @@
 title: "Inexperienced Me"
 subtitle: "name origins"
 date: "2022-08-04"
-thumbnail: "/postsImages/inexperienced-me/thumbnail.png"
+thumbnail: "/postsFiles/inexperienced-me/thumbnail.png"
 ---
 
 
@@ -32,7 +32,7 @@ Significant, and hard to change...
 
 I already knew that. And then one day, spending yet one more hour on mindless watching of quality content, I watched this video from Dr K. from HealthyGamerGG:
 
-<VideoEmbed url="https://www.youtube.com/embed/Hq32ZIz1EBE?si=iNwxnQ-NPuuxfcx-"/>
+<VideoEmbed src="https://www.youtube.com/embed/Hq32ZIz1EBE?si=iNwxnQ-NPuuxfcx-"/>
 
 It would be great if you actually watched it, it's certainly worth your time. But to sum it up, taking just the essence of Dr K's talk:
 
@@ -59,7 +59,7 @@ What we can do about it is not being scared of trying new things, that we'll suc
 
 Just yesterday, on 3rd of August, I watched the newest video from Veritasium
 
-<VideoEmbed url="https://www.youtube.com/embed/5eW6Eagr9XA?si=ZCXlDtyLuNV9dFtp"/>
+<VideoEmbed src="https://www.youtube.com/embed/5eW6Eagr9XA?si=ZCXlDtyLuNV9dFtp"/>
 
 about an idea I first read about in, If I remember well, an outstanding book "Thinking, Fast and Slow" by a Nobelist Daniel Kahneman. The video is about experts. Now when I think about it, it could also be mentioned in "The Power of Habit" by Charles Duhigg. These great books cross-reference each other anyways. But for sure Kahneman wrote about it in the chapter called "The opinion of experts - When can we trust it?".
 
@@ -91,7 +91,7 @@ I decided to go for just Inexperienced. But when I got to buying a domain name, 
 
 By the way, the guy, the investor, looks like he's the biggest cringelord alive, who got rich by selling adult site domain names. And the latter information is not a joke.
 
-![/postsImages/inexperienced-me/domainKing.png](/postsImages/inexperienced-me/domainKing.png)
+![/postsFiles/inexperienced-me/domainKing.png](/postsFiles/inexperienced-me/domainKing.png)
 
 The only affordable option was to go for inexperienced.me which is obviously usually pretty lame domain extension, but not if I include it in my name. Inexperienced Me. It doesn't sound too bad, it's more characteristic and the domain looks quite professional. Like the domain of Alphabet at abc.xyz or Google domain at goo.gle
 
@@ -104,6 +104,6 @@ So, no matter how experienced I'll be one day, I will still be Inexperienced Me,
 
 It was important for me to clarify the name, as some people's first reaction might be like one of my friend's:
 
-![/postsImages/inexperienced-me/workOnIt.png](/postsImages/inexperienced-me/workOnIt.png)
+![/postsFiles/inexperienced-me/workOnIt.png](/postsFiles/inexperienced-me/workOnIt.png)
 
 Certainly, my name's purpose is not to put myself down. I'm inexperienced and that's completely fine. In fact, it might even make me more self-confident. It takes time, though.

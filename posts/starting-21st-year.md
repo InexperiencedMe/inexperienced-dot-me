@@ -2,7 +2,7 @@
 title: "Starting 21st year"
 subtitle: "retrospection and future goals"
 date: "2021-08-22"
-thumbnail: "/postsImages/starting-21st-year/thumbnail.png"
+thumbnail: "/postsFiles/starting-21st-year/thumbnail.png"
 ---
 
 Few days ago, on 17th August I had my 20th birthday. What a milestone. Sounds like a time for a little retrospection and writing down my goals for the future.

@@ -2,7 +2,7 @@
 title: "Back at uni. How great."
 subtitle: "rant on the education system"
 date: "2021-12-17"
-thumbnail: "/postsImages/back-at-uni-how-great/thumbnail.png"
+thumbnail: "/postsFiles/back-at-uni-how-great/thumbnail.png"
 ---
 
 
@@ -133,7 +133,7 @@ My doubt here is that it would take way too much time for me to feel prepared. W
 
 The name could be better, but it'll do for now. The idea itself is strongly related to the previous one, but the concept is a little different. It takes the idea of themed years, that was introduced to me by CGP Grey, to a next level.
 
-<VideoEmbed url="https://www.youtube.com/embed/NVGuFdX5guE" />
+<VideoEmbed src="https://www.youtube.com/embed/NVGuFdX5guE" />
 
 My overly-order-seeking brain came up with themed months. Then weeks. Even days. I love the idea of living intensively. I want to work really hard on a challenging task and then have an intensive rest. As opposed to not being challenged at uni, just exhausted from all these hours of sitting there, and then playing games to relieve some stress, but not actually resting.
 

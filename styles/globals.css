@@ -53,6 +53,6 @@ html {
 
 @layer components {
   .blogVideo {
-    @apply relative w-full aspect-video rounded-lg;
+    @apply relative w-full aspect-video rounded-lg !my-2;
   }
 }

@@ -2,7 +2,7 @@
 title: "Voluntary Limits"
 subtitle: "taking back control of my life"
 date: "2021-08-01"
-thumbnail: "/postsImages/voluntary-limits/thumbnail.png"
+thumbnail: "/postsFiles/voluntary-limits/thumbnail.png"
 ---
 
 I’m in the midst of conquering the chaos that crept in on me with the last final exam that I had this academic year. Too many possibilities, too much decisions to make. The list with my plans became so overwhelmingly huge, that no matter how productive I am during the day, it’s still not enough. There is still even more things to learn. Sounds familiar? Ugh, I hate it.
@@ -13,7 +13,7 @@ That is where the book Essentialism by Greg McKeown came in handy. This remarkab
 
 While diving into the novel, yet old idea of separating the crucial few from the trivial many, something struck me in the chapter titled "Limit". But it still wasn't a revolution. It was just some new idea that started wandering around my brain, from one region to another. It was like an unknown seed, that needed my attention to fully manifest itself. 
 
-![/postsImages/voluntary-limits/thumbnail.png](/postsImages/voluntary-limits/thumbnail.png)
+![/postsFiles/voluntary-limits/thumbnail.png](/postsFiles/voluntary-limits/thumbnail.png)
 
 Subtitle "The freedom of Setting Boundaries" conveys the main message behind it. In other words - limiting yourself will set you free. Restraining your possibilities will actually enable you to do what matters the most.
 
@@ -22,7 +22,7 @@ Subtitle "The freedom of Setting Boundaries" conveys the main message behind it.
 
 Reading the chapter got me thinking, but then YouTube recommended me the video Why are you Uncertain, Unfocused and Anxious? What should we do about it? by What I’ve learned.
 
-<VideoEmbed url="https://www.youtube.com/embed/GaJmw54BMcw" />
+<VideoEmbed src="https://www.youtube.com/embed/GaJmw54BMcw" />
 
 This video got me amazed, starting a revolution in my head. I connected some distant thoughts and the seed, that I mentioned earlier, turned into a blossoming plant. Can’t wait for the fruits to show up.
 
@@ -46,7 +46,7 @@ Deliberately choosing to set your boundaries and thus, limiting your options, is
 
 Now I remembered one more video from What I’ve Learned: Willpower is for Losers. Wow, while writing this post I’m connecting even more dots.
 
-<VideoEmbed url="https://www.youtube.com/embed/k2Wcu6aGyz8" />
+<VideoEmbed src="https://www.youtube.com/embed/k2Wcu6aGyz8" />
 
 <center>*It’s for the those of you that would like to explore the topic even more*</center>
 
