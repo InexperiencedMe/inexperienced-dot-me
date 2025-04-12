@@ -8,10 +8,10 @@ export const metadata = {
 };
 
 const ContactPage = () => {
-  const iconsSize = 22;
+  const iconsSize = 30;
   const contactsInfo = [
-    { icon: <FiYoutube size={iconsSize} />,   text: "YouTube channel",             link: "https://www.youtube.com/@inexperiencedme" },
-    { icon: <FiGithub size={iconsSize} />,    text: "GitHub profile",              link: "https://github.com/InexperiencedMe" },
+    { icon: <FiYoutube size={iconsSize} />,   text: "YouTube channel",                link: "https://www.youtube.com/@inexperiencedme" },
+    { icon: <FiGithub size={iconsSize} />,    text: "GitHub profile",                 link: "https://github.com/InexperiencedMe" },
     { icon: <FaXTwitter size={iconsSize} />,  text: "eX Twitter profile",             link: "https://twitter.com/InexperiencedMe" },
     { icon: <FiMail size={iconsSize} />,      text: "inexperiencedme@protonmail.com", link: "mailto:inexperiencedme@protonmail.com" }
   ];
