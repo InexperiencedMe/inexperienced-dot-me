@@ -1,6 +1,6 @@
 ---
 title: "Starting 2023"
-subtitle: "A plan to get up"
+subtitle: "a plan to get up"
 date: "2023-03-03"
 thumbnail: "/postsFiles/starting-2023/thumbnail.png"
 ---
