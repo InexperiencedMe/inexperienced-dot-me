@@ -5,7 +5,7 @@ export const Header = () => {
   return (
     <>
       <div className={`z-[100] flex flex-row place-content-between
-      text-xl md:text-3xl max-w-full w-full h-fit mt-4 mb-8 px-4`}>
+      text-xl md:text-2xl lg:text-3xl max-w-full w-full h-fit mt-4 mb-8 px-4`}>
         
         <div className="flex">
           <BackButton />
