@@ -6,15 +6,15 @@ export const metadata = {
   description: "Inexperienced Me blog",
 };
 
-const HomePage = () => {
+const BlogPage = () => {
   const postMetadata = getPostsMetadata();
   const posts = postMetadata.map((post) => <PostCard key={post.filename} {...post} />);
 
   return (
-      <div className="flex flex-col place-items-center justify-center gap-4 mb-20">
+      <div className="flex flex-col place-items-center justify-center gap-4 mb-20 max-w-full w-full md:max-w-2xl">
         {posts}
       </div>
   );
 };
 
-export default HomePage;
+export default BlogPage;
