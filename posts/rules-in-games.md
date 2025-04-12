@@ -62,7 +62,7 @@ Yeah, okay. It sounds nice. So we have to solve everything regularly at home and
 
 "Can I please solve everything at home and just send you the results, as this is my preferable way of working? It takes energy for me to get into the hyperfocused zone and I prefer just sitting at these tasks for many hours until I solve them."
 
-![postsFiles/rules-in-games/skippingClassesMail.png](postsFiles/rules-in-games/skippingClassesMail.png)
+![/postsFiles/rules-in-games/skippingClassesMail.png](/postsFiles/rules-in-games/skippingClassesMail.png)
 
 Yes, I could. A month for sending all lists, fair enough. Thanks a lot. I didn't attend a single class from this subject.
 
