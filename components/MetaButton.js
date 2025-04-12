@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { MdArrowBack, MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
+import { usePathname } from "next/navigation";
 
 export const MetaButton = (props) => {
   return (
@@ -13,6 +14,11 @@ export const MetaButton = (props) => {
 };
 
 export function BackButton() {
+  const pathname = usePathname();
+
+  if (pathname === "/") {
+    return <div className="w-8 h-8" />;
+  }
   return (
     <MetaButton>
       <Link href={"/"}>
