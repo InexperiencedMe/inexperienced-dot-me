@@ -3,6 +3,30 @@ import { getPostContent } from "@/utils/getPostContent";
 import VideoEmbed from '@/components/VideoEmbed';
 import Markdown from "markdown-to-jsx";
 
+export async function generateMetadata(props) {
+  const params = await props.params;
+  const post = getPostContent(params.slug);
+  return {
+    title: post.data.title,
+    subtitle: post.data.subtitle,
+    openGraph: {
+      images: [post.data.thumbnail],
+    },
+    twitter: {
+      images: [post.data.thumbnail],
+      card: "summary_large_image",
+      title: post.data.title,
+      subtitle: post.data.subtitle,
+    },
+    authors: [
+      {
+        name: "Inexperienced Me",
+        url: "https://inexperienced.me/",
+      },
+    ],
+  };
+}
+
 export const generateStaticParams = async () => {
   const posts = getPostsMetadata();
   return posts.map((post) => ({
