@@ -8,16 +8,16 @@ export const metadata = {
 export default function AboutPage () {
   return (
 
-    <div class="p-4 max-w-screen-md space-y-12">
+    <div className="p-4 max-w-screen-md space-y-12">
 
-        <h1 class="text-4xl font-bold text-center">Who is this guy????</h1>
+        <h1 className="text-4xl font-bold text-center">Who is this guy????</h1>
 
-        <div class="flex flex-col sm:flex-row items-center gap-6">
-            <div class="text-2xl">
+        <div className="flex flex-col sm:flex-row items-center gap-6">
+            <div className="text-2xl">
                 Heeeey, it's so nice to meet you. <br/><br/>
                 Call me Ben.
             </div>
-            <div class="sm:w-1/2 w-full aspect-square rounded-md relative border-2 border-foreground-secondary">
+            <div className="sm:w-1/2 w-full aspect-square rounded-md relative border-2 border-foreground-secondary">
                 <Image
                     src={"/mainFiles/mainPic.png"}
                     alt={"Ben's picture"}
@@ -28,7 +28,7 @@ export default function AboutPage () {
             </div>
         </div>
 
-        <div class="text-base sm:text-lg leading-relaxed text-justify space-y-4 mb-8">
+        <div className="text-base sm:text-lg leading-relaxed text-justify space-y-4 mb-8">
             I'm the Inexperienced Me, meaning, that no matter how much experience I have, it is still not enough.
             I will always suck at something, and there will always be new things to learn.<br/><br/>
             

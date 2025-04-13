@@ -60,7 +60,7 @@ export function ThemeToggle() {
       className="rounded-full flex items-center justify-center cursor-pointer"
       onClick={handleToggle}
     >
-      {isDark ? <MdOutlineLightMode size={30} /> : <MdOutlineDarkMode size={22} />}
+      {isDark ? <MdOutlineLightMode size={30} /> : <MdOutlineDarkMode size={30} />}
     </button>
   );
 }
