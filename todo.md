@@ -1,9 +1,7 @@
 - Make about me page
-- Make contact page
 - Make newsletter functionality
 - Auto patch vulnerabilities
 - Smooth page transitions
-- Ensure decent mobile experience
 - Additional visual effects
 - Deploy it at inexperienced.me
 - Make stats functionality
