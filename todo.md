@@ -1,7 +1,5 @@
-- Make about me page
 - Make newsletter functionality
 - Auto patch vulnerabilities
-- Smooth page transitions
 - Additional visual effects
 - Deploy it at inexperienced.me
 - Make stats functionality

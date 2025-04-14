@@ -1,6 +1,7 @@
 import "@/styles/globals.css";
 import { Header } from "@/components/Header";
 import { fredoka } from "@/styles/fonts";
+import { unstable_ViewTransition as ViewTransition } from "react"
 
 export const metadata = {
   title: "Inexperienced Me",
@@ -21,9 +22,10 @@ export default function RootLayout({children}) {
             }`}}/>
       </head>
       <body
-        className={`bg-background text-foreground place-items-center min-h-screen flex flex-col relative ${fredoka.className}`}>
+        className={`bg-background text-foreground place-items-center min-h-screen flex flex-col relative ${fredoka.className}
+                    tranisiton-opacity duration-500 ease-in-out`}>
       <Header />
-      {children}
+      <ViewTransition>{children}</ViewTransition>
       </body>
     </html>
   );
