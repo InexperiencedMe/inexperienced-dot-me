@@ -3,8 +3,8 @@ import {FiYoutube, FiGithub, FiMail } from "react-icons/fi";
 import { FaXTwitter } from "react-icons/fa6";
 
 export const metadata = {
-  title: "Inexperienced Me contact",
-  description: "Inexperienced Me contact",
+  title: "Inexperienced Me | Contact",
+  description: "Inexperienced Me | Contact",
 };
 
 const ContactPage = () => {
