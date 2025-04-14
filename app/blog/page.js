@@ -2,8 +2,8 @@ import getPostsMetadata from "@/utils/getPostsMetadata";
 import PostCard from "@/components/PostCard";
 
 export const metadata = {
-  title: "Inexperienced Me blog",
-  description: "Inexperienced Me blog",
+  title: "Inexperienced Me | Blog",
+  description: "Inexperienced Me | Blog",
 };
 
 const BlogPage = () => {

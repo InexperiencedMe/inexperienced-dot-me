@@ -1,8 +1,8 @@
 import Image from "next/image";
 
 export const metadata = {
-  title: "About Inexperienced Me",
-  description: "About Inexperienced Me",
+  title: "Inexperienced Me | About",
+  description: "Inexperienced Me | About",
 };
 
 export default function AboutPage () {
