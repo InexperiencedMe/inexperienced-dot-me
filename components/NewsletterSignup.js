@@ -57,33 +57,33 @@ export const NewsletterSignup = () => {
             />
 
             <button
-              className="hidden sm:flex p-3 rounded-md hover:opacity-70 hover:cursor-pointer text-foreground"
+              className="hidden sm:flex p-3 rounded-md hover:opacity-70 hover:cursor-pointer text-foreground items-center"
               name="submit"
               type="submit">
               Sign up
             </button>
 
             <button
-              className="flex sm:hidden p-3 rounded-md hover:opacity-70 hover:cursor-pointer text-foreground"
+              className="flex sm:hidden p-3 rounded-md hover:opacity-70 hover:cursor-pointer text-foreground items-center"
               name="submit"
               type="submit"
             >
-              <LuMailPlus size={24} />
+              <LuMailPlus size={22} />
             </button>
           </div>
         </form>
       ) : success ? (
         <Card>
-          <div className="w-full flex flex-row gap-4">
+          <div className="flex flex-row items-center gap-4">
             Welcome. We're glad to have you
-            <LuMailCheck size={24} />
+            <LuMailCheck size={22} />
           </div>
         </Card>
       ) : (
         <Card>
           <button
             onClick={() => setSuccess(undefined)}
-            className="w-full flex flex-row gap-4 text-red-500 hover:opacity-70"
+            className="flex flex-row gap-4 text-red-500 hover:opacity-70"
           >
             Subscription failed. Click to try again.
           </button>
