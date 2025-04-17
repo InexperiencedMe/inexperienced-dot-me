@@ -1,4 +1,3 @@
-- Make newsletter functionality
 - Auto patch vulnerabilities
 - Additional visual effects
 - Deploy it at inexperienced.me
