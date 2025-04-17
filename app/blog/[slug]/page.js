@@ -2,6 +2,7 @@ import getPostsMetadata from "@/utils/getPostsMetadata";
 import { getPostContent } from "@/utils/getPostContent";
 import VideoEmbed from '@/components/VideoEmbed';
 import Markdown from "markdown-to-jsx";
+import { NewsletterSignup } from "@/components/NewsletterSignup";
 
 export async function generateMetadata(props) {
   const params = await props.params;
@@ -55,6 +56,7 @@ export default async function PostPage(props) {
   return (
     <div className="max-w-2xl mb-10 w-full relative">
       <PostContent post={post} />
+      <NewsletterSignup />
     </div>
   );
 }
