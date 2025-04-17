@@ -43,6 +43,7 @@ export const NewsletterSignup = () => {
               name="firstName"
               required
               placeholder="First Name"
+              autoComplete="off"
             />
 
             <input
@@ -52,6 +53,7 @@ export const NewsletterSignup = () => {
               name="email"
               required
               placeholder="E-mail"
+              autoComplete="off"
             />
 
             <button
@@ -73,15 +75,18 @@ export const NewsletterSignup = () => {
       ) : success ? (
         <Card>
           <div className="w-full flex flex-row gap-4">
-            Subscribed!
+            Welcome. We're glad to have you
             <LuMailCheck size={24} />
           </div>
         </Card>
       ) : (
         <Card>
-          <div className="w-full flex flex-row gap-4 text-red-500">
-            Subscription failed. Please try again.
-          </div>
+          <button
+            onClick={() => setSuccess(undefined)}
+            className="w-full flex flex-row gap-4 text-red-500 hover:opacity-70"
+          >
+            Subscription failed. Click to try again.
+          </button>
         </Card>
       )}
     </div>
