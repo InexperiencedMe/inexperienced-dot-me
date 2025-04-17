@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { NewsletterSignup } from "@/components/NewsletterSignup";
 
 export const metadata = {
   title: "Inexperienced Me | About",
@@ -56,6 +57,7 @@ export default function AboutPage () {
             so you can see for yourself what got me here.<br/><br/>
 
             I also have a Newsletter for people, that would like to stay in touch and build a beautiful community.
+            <NewsletterSignup />
         </div>
     </div>
 

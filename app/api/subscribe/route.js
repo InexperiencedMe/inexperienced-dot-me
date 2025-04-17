@@ -5,11 +5,16 @@ const KIT_API_KEY = process.env.KIT_API_KEY;
 
 export async function POST(request) {
   try {
-    const { email } = await request.json();
+    const { firstName, email } = await request.json();
+
+    if (!firstName || typeof firstName !== 'string') {
+      return NextResponse.json({ error: 'Invalid first name' }, { status: 400 });
+    }
 
     if (!email || typeof email !== 'string') {
       return NextResponse.json({ error: 'Invalid email' }, { status: 400 });
     }
+
 
     const createSubscriberRes = await fetch('https://api.kit.com/v4/subscribers', {
       method: 'POST',
@@ -18,6 +23,7 @@ export async function POST(request) {
         'X-Kit-Api-Key': KIT_API_KEY,
       },
       body: JSON.stringify({
+        first_name: firstName,
         email_address: email,
         state: 'active',
       }),
