@@ -22,7 +22,7 @@ export function BackButton() {
   return (
     <MetaButton>
       <Link href={"/"}>
-        <MdArrowBack size={30} />
+        <MdArrowBack size={26} />
       </Link>
     </MetaButton>
   );
@@ -60,7 +60,7 @@ export function ThemeToggle() {
       className="rounded-full flex items-center justify-center cursor-pointer"
       onClick={handleToggle}
     >
-      {isDark ? <MdOutlineLightMode size={30} /> : <MdOutlineDarkMode size={30} />}
+      {isDark ? <MdOutlineLightMode size={26} /> : <MdOutlineDarkMode size={26} />}
     </button>
   );
 }
