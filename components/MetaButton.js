@@ -40,18 +40,14 @@ export function ThemeToggle() {
 
   useEffect(() => {
     if (typeof document !== "undefined") {
-      if (isDark) {
-        document.documentElement.classList.add("dark");
-        localStorage.setItem("theme", "dark");
-      } else {
-        document.documentElement.classList.remove("dark");
-        localStorage.setItem("theme", "light");
-      }
+      const theme = isDark ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem("theme", theme);
     }
   }, [isDark]);
 
   const handleToggle = () => {
-    setIsDark(prev => !prev);
+    setIsDark((prev) => !prev);
   };
 
   return (
