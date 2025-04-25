@@ -12,7 +12,7 @@ const BlogPage = () => {
 
   return (
       <div className="flex flex-col place-items-center justify-center gap-4 mb-20 max-w-full w-full md:max-w-2xl
-                      bg-background rounded-md transition-all duration-500 ease-in-out p-6">
+                      bg-background rounded-md p-6">
         {posts}
       </div>
   );

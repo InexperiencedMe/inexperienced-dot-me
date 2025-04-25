@@ -34,7 +34,7 @@ const ContactPage = () => {
   const contacts = contactsInfo.map((contact, index) => (<ContactCard key={index} {...contact} />));
 
   return (
-      <div className="flex flex-col gap-4 p-6 my-auto bg-background rounded-md transition-all duration-500 ease-in-out">
+      <div className="flex flex-col gap-4 p-6 my-auto bg-background rounded-md">
         {contacts}
       </div>
   );
