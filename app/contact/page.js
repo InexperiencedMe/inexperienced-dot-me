@@ -10,10 +10,25 @@ export const metadata = {
 const ContactPage = () => {
   const iconsSize = 30;
   const contactsInfo = [
-    { icon: <FiYoutube size={iconsSize} />,   text: "YouTube channel",                link: "https://www.youtube.com/@inexperiencedme" },
-    { icon: <FiGithub size={iconsSize} />,    text: "GitHub profile",                 link: "https://github.com/InexperiencedMe" },
-    { icon: <FaXTwitter size={iconsSize} />,  text: "eX Twitter profile",             link: "https://twitter.com/InexperiencedMe" },
-    { icon: <FiMail size={iconsSize} />,      text: "inexperiencedme@protonmail.com", link: "mailto:inexperiencedme@protonmail.com" }
+    { icon: <FiYoutube size={iconsSize} />,
+      text: "YouTube channel",
+      subtext: "Videos about my journey and what I learn",
+      link: "https://www.youtube.com/@inexperiencedme" },
+
+    { icon: <FiGithub size={iconsSize} />,
+      text: "GitHub profile",
+      subtext: "Code samples and some projects",
+      link: "https://github.com/InexperiencedMe" },
+
+    { icon: <FaXTwitter size={iconsSize} />,
+      text: "eX Twitter profile",
+      subtext: "Quick sharp thoughts with no context",
+      link: "https://twitter.com/InexperiencedMe" },
+      
+    { icon: <FiMail size={iconsSize} />,
+      text: "inexperiencedme@protonmail.com",
+      subtext: "Contact me directly",
+      link: "mailto:inexperiencedme@protonmail.com" }
   ];
 
   const contacts = contactsInfo.map((contact, index) => (<ContactCard key={index} {...contact} />));
