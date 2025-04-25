@@ -2,7 +2,6 @@ import "@/styles/globals.css";
 import { Header } from "@/components/Header";
 import { fredoka } from "@/styles/fonts";
 import { unstable_ViewTransition as ViewTransition } from "react"
-import { Background } from "@/components/Background";
 
 export const metadata = {
   title: "Inexperienced Me",
@@ -26,7 +25,7 @@ export default function RootLayout({children}) {
         className={`bg-background text-foreground place-items-center min-h-screen flex flex-col relative ${fredoka.className}
             duration-500 ease-in-out`}>
       <Header />
-      <div className="absolute inset-0 -z-10 h-full w-full bg-radial from-foreground-secondary to-10% to-transparent bg-size-[20px_20px]"></div>
+      <div className="absolute inset-0 -z-10 h-full w-full bg-radial from-background-tertiary to-10% to-transparent bg-size-[20px_20px]"></div>
       <ViewTransition>{children}</ViewTransition>
       </body>
     </html>

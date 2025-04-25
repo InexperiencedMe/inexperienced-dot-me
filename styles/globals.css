@@ -7,6 +7,7 @@
   --color-foreground-secondary: var(--foreground-secondary);
   --color-background:           var(--background);
   --color-background-secondary: var(--background-secondary);
+  --color-background-tertiary:  var(--background-tertiary);
   --color-accent:               var(--accent);
 }
 
@@ -15,6 +16,7 @@
     --foreground-secondary: #494949;
     --background:           #eeeeee;
     --background-secondary: #ffffff;
+    --background-tertiary:  #929292;
     --accent:               #cc3340;
   }
 
@@ -23,6 +25,7 @@
     --foreground-secondary: #a7a7a7;
     --background:           #181818;
     --background-secondary: #212121;
+    --background-tertiary:  #464646;
     --accent:               #62131a;
 }
 
