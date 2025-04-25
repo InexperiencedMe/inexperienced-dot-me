@@ -54,7 +54,7 @@ export default async function PostPage(props) {
   const post = getPostContent(params.slug);
 
   return (
-    <div className="max-w-2xl mb-10 w-full relative">
+    <div className="max-w-3xl mb-10 w-full relative bg-background rounded-md z-10 transition-all duration-500 ease-in-out">
       <PostContent post={post} />
       <NewsletterSignup />
     </div>

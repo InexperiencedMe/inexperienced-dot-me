@@ -9,7 +9,7 @@ export const metadata = {
 export default function AboutPage () {
   return (
 
-    <div className="p-4 max-w-screen-md space-y-12">
+    <div className="p-4 max-w-screen-md space-y-12 bg-background rounded-md z-10 transition-all duration-500 ease-in-out">
 
         <h1 className="text-4xl font-bold text-center">Who is this guy????</h1>
 
