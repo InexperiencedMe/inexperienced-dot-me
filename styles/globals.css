@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
-@custom-variant dark (&:where(.dark, .dark *));
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 @theme inline {
   --color-foreground:           var(--foreground);
@@ -11,22 +11,22 @@
   --color-accent:               var(--accent);
 }
 
-:root {
-    --foreground:           #191817;
-    --foreground-secondary: #494949;
-    --background:           #eeeeee;
-    --background-secondary: #ffffff;
-    --background-tertiary:  #929292;
-    --accent:               #cc3340;
-  }
+:root[data-theme="light"] {
+  --foreground:           #191817;
+  --foreground-secondary: #494949;
+  --background:           #eeeeee;
+  --background-secondary: #ffffff;
+  --background-tertiary:  #929292;
+  --accent:               #cc3340;
+}
 
-.dark {
-    --foreground:           #fbfbfb;
-    --foreground-secondary: #a7a7a7;
-    --background:           #181818;
-    --background-secondary: #212121;
-    --background-tertiary:  #464646;
-    --accent:               #62131a;
+:root[data-theme="dark"] {
+  --foreground:           #fbfbfb;
+  --foreground-secondary: #a7a7a7;
+  --background:           #181818;
+  --background-secondary: #212121;
+  --background-tertiary:  #464646;
+  --accent:               #62131a;
 }
 
 html::-webkit-scrollbar {
