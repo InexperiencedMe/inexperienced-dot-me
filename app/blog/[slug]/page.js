@@ -37,15 +37,15 @@ export const generateStaticParams = async () => {
 
 function PostContent({ post }) {
   return (
-    <article className={`p-2 py-8 prose prose-md md:prose-lg lg:prose-xl dark:prose-invert prose-img:rounded-lg
-                         prose-p:text-justify prose-em:opacity-40 prose-img:w-full prose-a:text-cyan-500
-                         prose-a:no-underline prose-a:hover:underline`}>
+  <article className={`p-2 py-8 prose prose-md md:prose-lg lg:prose-xl dark:prose-invert prose-img:rounded-lg
+      prose-p:text-justify prose-em:opacity-40 prose-img:w-full prose-a:text-cyan-500
+      prose-a:no-underline prose-a:hover:underline`}>
       <h1 className="!mb-0 text-center">{post.data.title}</h1>
       <h3 className="!mb-8 !mt-2 text-center">{post.data.subtitle}</h3>
       <Markdown options={{overrides: {VideoEmbed: VideoEmbed}}}>
         {post.content}
       </Markdown>
-    </article>
+  </article>
   );
 }
 
@@ -54,8 +54,8 @@ export default async function PostPage(props) {
   const post = getPostContent(params.slug);
 
   return (
-    <div className="max-w-3xl mb-10 w-full relative bg-background rounded-md z-10 transition-all duration-500 ease-in-out">
-      <PostContent post={post} />
+    <div className="max-w-3xl mb-10 w-full relative bg-background rounded-md z-10">
+      <PostContent className="" post={post} />
       <NewsletterSignup />
     </div>
   );

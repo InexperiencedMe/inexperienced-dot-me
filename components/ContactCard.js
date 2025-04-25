@@ -8,7 +8,7 @@ const ContactCard = (contact) => {
             <span>{contact.icon}</span>
             <div className="flex flex-col">
               <p className="text-lg md:text-xl lg:text-2xl">{contact.text}</p>
-              <p className="text-sm md:text-md lg:text-lg text-foreground-secondary opacity-50">{contact.subtext}</p>
+              <p className="text-sm md:text-md lg:text-lg text-foreground-secondary opacity-60">{contact.subtext}</p>
             </div>
         </div>
         </Card>

@@ -12,8 +12,9 @@ const PostCard = (props) => {
               src={props.thumbnail}
               alt={props.title}
               fill={true}
-              className="rounded-md"
+              className="rounded-md transform-gpu will-change-transform"
               priority={true}
+              quality={100}
             />
           </div>
 
