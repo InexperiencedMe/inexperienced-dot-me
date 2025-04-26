@@ -1,3 +1,2 @@
 - Deploy it at inexperienced.me
 - Auto patch vulnerabilities
-- Additional visual effects
