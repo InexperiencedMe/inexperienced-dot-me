@@ -1,4 +1,3 @@
+- Deploy it at inexperienced.me
 - Auto patch vulnerabilities
 - Additional visual effects
-- Deploy it at inexperienced.me
-- Make stats functionality
