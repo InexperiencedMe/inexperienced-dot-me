@@ -12,7 +12,7 @@ const ContactPage = () => {
   const contactsInfo = [
     { icon: <FiYoutube size={iconsSize} />,
       text: "YouTube channel",
-      subtext: "Videos about my journey and what I learn",
+      subtext: "Get to know me and my journey",
       link: "https://www.youtube.com/@inexperiencedme" },
 
     { icon: <FiGithub size={iconsSize} />,
