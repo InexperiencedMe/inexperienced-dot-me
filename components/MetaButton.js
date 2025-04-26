@@ -7,7 +7,7 @@ import { usePathname } from "next/navigation";
 
 export const MetaButton = (props) => {
   return (
-    <div className="w-8 h-8 flex items-center justify-center rounded-md">
+    <div className="w-4 h-8 flex items-center justify-center rounded-md">
       {props.children}
     </div>
   );
@@ -17,12 +17,12 @@ export function BackButton() {
   const pathname = usePathname();
 
   if (pathname === "/") {
-    return <div className="w-8 h-8" />;
+    return <div className="w-4 h-8" />;
   }
   return (
     <MetaButton>
       <Link href={"/"}>
-        <MdArrowBack size={26} />
+        <MdArrowBack className="text-lg sm:text-xl md:text-2xl lg:text-3xl" />
       </Link>
     </MetaButton>
   );
@@ -56,7 +56,8 @@ export function ThemeToggle() {
       className="rounded-full flex items-center justify-center cursor-pointer"
       onClick={handleToggle}
     >
-      {isDark ? <MdOutlineLightMode size={26} /> : <MdOutlineDarkMode size={26} />}
+      {isDark ? <MdOutlineLightMode className="text-lg sm:text-xl md:text-2xl lg:text-3xl" />
+      : <MdOutlineDarkMode className="text-lg sm:text-xl md:text-2xl lg:text-3xl" />}
     </button>
   );
 }
