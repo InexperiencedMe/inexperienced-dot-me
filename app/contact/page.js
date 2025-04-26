@@ -8,7 +8,7 @@ export const metadata = {
 };
 
 const ContactPage = () => {
-  const iconsSize = 30;
+  const iconsSize = 26;
   const contactsInfo = [
     { icon: <FiYoutube size={iconsSize} />,
       text: "YouTube channel",
@@ -34,9 +34,9 @@ const ContactPage = () => {
   const contacts = contactsInfo.map((contact, index) => (<ContactCard key={index} {...contact} />));
 
   return (
-      <div className="flex flex-col gap-4 p-6 my-auto bg-background rounded-md">
-        {contacts}
-      </div>
+    <div className="flex flex-col gap-4 p-2 my-auto mx-auto w-full max-w-lg bg-background rounded-md">
+      {contacts}
+    </div>
   );
 };
 
