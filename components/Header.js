@@ -13,9 +13,9 @@ export const Header = () => {
         </div>
 
         <div className="flex flex-row gap-x-4 sm:gap-x-8 md:gap-x-12 lg:gap-x-16">
-          <Link href="/blog">     blog    </Link>
-          <Link href="/about">    about   </Link>
-          <Link href="/contact">  contact </Link>
+          <Link href="/blog">     blog     </Link>
+          <Link href="/about">    about    </Link>
+          <Link href="/contact">  contact  </Link>
         </div>
 
         <div className="flex mr-4">

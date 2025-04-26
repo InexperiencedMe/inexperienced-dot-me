@@ -60,7 +60,7 @@ export const NewsletterSignup = () => {
               className="hidden sm:flex p-3 rounded-md hover:opacity-70 hover:cursor-pointer text-foreground items-center"
               name="submit"
               type="submit">
-              Sign up
+              Join us
             </button>
 
             <button
