@@ -1,4 +1,3 @@
-// layout.js
 import "@/styles/globals.css";
 import { Header } from "@/components/Header";
 import { fredoka } from "@/styles/fonts";
@@ -31,8 +30,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body
-        className={`bg-background text-foreground place-items-center min-h-screen flex flex-col relative ${fredoka.className}`}
-      >
+        className={`bg-background text-foreground min-h-screen flex flex-col items-center justify-center relative ${fredoka.className}`}>
         <ViewTransition>
           <Header />
           <div className="hidden md:block absolute inset-0 -z-10 h-full w-full bg-radial from-background-tertiary to-10% to-transparent bg-size-[20px_20px]"></div>

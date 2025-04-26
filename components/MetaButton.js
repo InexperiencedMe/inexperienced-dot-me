@@ -2,7 +2,8 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { MdArrowBack, MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
+import { MdOutlineDarkMode, MdOutlineLightMode } from "react-icons/md";
+import { IoHomeOutline } from "react-icons/io5";
 import { usePathname } from "next/navigation";
 
 export const MetaButton = (props) => {
@@ -13,7 +14,7 @@ export const MetaButton = (props) => {
   );
 };
 
-export function BackButton() {
+export function HomeButton() {
   const pathname = usePathname();
 
   if (pathname === "/") {
@@ -22,7 +23,7 @@ export function BackButton() {
   return (
     <MetaButton>
       <Link href={"/"}>
-        <MdArrowBack className="text-lg sm:text-xl md:text-2xl lg:text-3xl" />
+        <IoHomeOutline className="text-foreground-secondary text-lg sm:text-xl md:text-2xl lg:text-3xl" />
       </Link>
     </MetaButton>
   );
@@ -56,8 +57,8 @@ export function ThemeToggle() {
       className="rounded-full flex items-center justify-center cursor-pointer"
       onClick={handleToggle}
     >
-      {isDark ? <MdOutlineLightMode className="text-lg sm:text-xl md:text-2xl lg:text-3xl" />
-      : <MdOutlineDarkMode className="text-lg sm:text-xl md:text-2xl lg:text-3xl" />}
+      {isDark ? <MdOutlineLightMode className="text-foreground-secondary text-lg sm:text-xl md:text-2xl lg:text-3xl" />
+      : <MdOutlineDarkMode className="text-foreground-secondary text-lg sm:text-xl md:text-2xl lg:text-3xl" />}
     </button>
   );
 }

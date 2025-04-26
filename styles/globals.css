@@ -13,7 +13,7 @@
 
 :root[data-theme="light"] {
   --foreground:           #191817;
-  --foreground-secondary: #494949;
+  --foreground-secondary: #5f5f5f;
   --background:           #eeeeee;
   --background-secondary: #ffffff;
   --background-tertiary:  #929292;
@@ -22,7 +22,7 @@
 
 :root[data-theme="dark"] {
   --foreground:           #fbfbfb;
-  --foreground-secondary: #a7a7a7;
+  --foreground-secondary: #737373;
   --background:           #181818;
   --background-secondary: #212121;
   --background-tertiary:  #464646;

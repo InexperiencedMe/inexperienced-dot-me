@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BackButton, ThemeToggle } from "./MetaButton";
+import { HomeButton, ThemeToggle } from "./MetaButton";
 
 export const Header = () => {
   return (
@@ -9,7 +9,7 @@ export const Header = () => {
       gap-x-4 sm:gap-x-8 md:gap-x-12 lg:gap-x-16`}>
         
         <div className="flex ml-4">
-          <BackButton />
+          <HomeButton />
         </div>
 
         <div className="flex flex-row gap-x-4 sm:gap-x-8 md:gap-x-12 lg:gap-x-16">
