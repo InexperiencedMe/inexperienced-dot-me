@@ -15,7 +15,7 @@ export default function AboutPage () {
 
         <div className="flex flex-col sm:flex-row items-center gap-6">
             <div className="text-2xl">
-                Heeeey, it's so nice to meet you. <br/><br/>
+                Heeeey, it&apos;s so nice to meet you. <br/><br/>
                 Call me Ben.
             </div>
             <div className="sm:w-1/2 w-full aspect-square rounded-md relative border-2 border-foreground-secondary">
@@ -30,11 +30,11 @@ export default function AboutPage () {
         </div>
 
         <div className="text-base sm:text-lg leading-relaxed text-justify space-y-4 mb-8">
-            I'm the Inexperienced Me, meaning, that no matter how much experience I have, it is still not enough.
+            I&apos;m the Inexperienced Me, meaning, that no matter how much experience I have, it is still not enough.
             I will always suck at something, and there will always be new things to learn.<br/><br/>
             
-            I resonate with hacker culture, that's about playful cleverness, exploration and experimentation.
-            I like to play around to see what's possible.<br/><br/><br/>
+            I resonate with hacker culture, that&apos;s about playful cleverness, exploration and experimentation.
+            I like to play around to see what&apos;s possible.<br/><br/><br/>
 
 
             My main career is in Machine Learning with specialization in Reinforcement Learning.
@@ -45,7 +45,7 @@ export default function AboutPage () {
             I studied Electrical and Computer Engineering and I got a max grade on my diploma,
             despite attending roughly 0 lectures and skipping as many classes as I could.<br/><br/>
 
-            Self-raised, self-taught, self-made. That's what the game is now.<br/><br/>
+            Self-raised, self-taught, self-made. That&apos;s what the game is now.<br/><br/>
 
             That way, I know what to do when nobody has any idea about what to do.
             I know well how to step through the fog of war and make progress in any circumstances.
@@ -53,7 +53,7 @@ export default function AboutPage () {
 
 
             Check out my Blog and YouTube Channel and other socials to see what
-            I'm currently up to and what I was working on in the past. There's a lot out there,
+            I&apos;m currently up to and what I was working on in the past. There&apos;s a lot out there,
             so you can see for yourself what got me here.<br/><br/>
 
             I also have a Newsletter for people, that would like to stay in touch and build a beautiful community.

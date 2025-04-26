@@ -75,7 +75,7 @@ export const NewsletterSignup = () => {
       ) : success ? (
         <Card>
           <div className="flex flex-row items-center gap-4">
-            Welcome. We're glad to have you
+            Welcome. We&apos;re glad to have you
             <LuMailCheck size={22} />
           </div>
         </Card>
