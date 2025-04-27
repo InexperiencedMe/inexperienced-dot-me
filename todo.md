@@ -1,2 +1,0 @@
-- Deploy it at inexperienced.me
-- Auto patch vulnerabilities
