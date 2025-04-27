@@ -14,8 +14,8 @@ export default function AboutPage () {
         <h1 className="text-4xl font-bold text-center">Who is this guy????</h1>
 
         <div className="flex flex-col sm:flex-row items-center gap-6">
-            <div className="text-2xl">
-                Heeeey, it&apos;s so nice to meet you. <br/><br/>
+            <div className="sm:w-1/2 text-xl">
+                Heeeey, it&apos;s so nice to meet you.<br/>
                 Call me Ben.
             </div>
             <div className="sm:w-1/2 w-full aspect-square rounded-md relative border-2 border-foreground-secondary">
