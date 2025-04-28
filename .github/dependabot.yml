@@ -1,13 +1,15 @@
 version: 2
 updates:
-  - package-ecosystem: npm
+  - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
       day: "monday"
-      time: "08:00"
+      time: "07:00"
       timezone: "Europe/Warsaw"
     open-pull-requests-limit: 5
-    ignore:
-      - dependency-name: "next"
-        update-types: ["version-update:semver-major"]
+    groups:
+      minor-and-patch-updates:
+        update-types:
+          - "minor"
+          - "patch"
