@@ -9,6 +9,7 @@
   --color-background-secondary: var(--background-secondary);
   --color-background-tertiary:  var(--background-tertiary);
   --color-accent:               var(--accent);
+  --color-eagle-main:           var(--eagle-main);
 }
 
 :root[data-theme="light"] {
@@ -17,7 +18,8 @@
   --background:           #eeeeee;
   --background-secondary: #ffffff;
   --background-tertiary:  #929292;
-  --accent:               #cc3340;
+  --accent:               #c4c4c4;
+  --eagle-main:           #d09a13;
 }
 
 :root[data-theme="dark"] {
@@ -26,7 +28,8 @@
   --background:           #181818;
   --background-secondary: #212121;
   --background-tertiary:  #464646;
-  --accent:               #62131a;
+  --accent:               #444444;
+  --eagle-main:           #846709;
 }
 
 html::-webkit-scrollbar {
@@ -60,4 +63,18 @@ html {
   .blogVideo {
     @apply relative w-full aspect-video rounded-lg !my-2;
   }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-1vh);
+  }
+}
+
+.eagle-art {
+  animation: float 4s infinite;
+  animation-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
