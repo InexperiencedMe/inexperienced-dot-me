@@ -24,7 +24,8 @@ export default function AboutPage () {
                     alt={"Ben's picture"}
                     fill={true}
                     className="rounded-sm"
-                    priority={true}
+                    priority
+                    loading="eager"
                 />
             </div>
         </div>
