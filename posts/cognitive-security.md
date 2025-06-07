@@ -23,27 +23,27 @@ And let's be honest: we all feel the urge, more or less. Yay, evolution. It sure
 
 Cognitive security is knowing what is true. It's knowing who you are and who you could become. It’s the ability to resist viral misinformation and defy masks that prevent you from seeing the true nature of the game. It’s also the robustness of your beliefs, morals, and your life-path as a whole. In practice, saying "I don't care what others say, I know where I want to go and I'm going for it" is a top cogsec behavior.
 
-That’s my type of cognitive security, where it's necessary to distinguish signal from noise. Because I am on the mission. I have a goal, I have to work towards it. I have to get to the truth. I aim to win the game without being outplayed in the meantime.
+That’s my type of cognitive security, where it's necessary to distinguish signal from noise. Because I am on a mission. I have a goal, I have to work towards it. I have to get to the truth. I aim to win the game without being outplayed in the meantime.
 
-On the other hand, dangerous cogsec techniques are built into us. We’re talkin’ DNA. We’re talkin’ [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). Oh yes. We love information, that supports what we already believe.
+On the other hand, dangerous cogsec techniques are built into us. We’re talkin’ DNA. We’re talkin’ [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). Oh yes. We love information that supports what we already believe.
 
-I’m constantly talking about filtering out the noise, but people love the noise. Only listening to the signal means that there is a silence most of the time. Deafening, unbearable silence. For most people, the noise **is** the signal, since you can construct any suitable narrative (effectively being a slave to confirmation bias).  It’s the double-edged sword of cogsec, when you can stay secure by living in a lie. That’s why the security is not the goal, but the unshakable pursue of the quest, whatever that is for you. Security is there to keep you firmly on the path.
+I’m constantly talking about filtering out the noise, but people love the noise. Only listening to the signal means that there is silence most of the time. Deafening, unbearable silence. For most people, the noise **is** the signal, since you can construct any suitable narrative (effectively being a slave to confirmation bias).  It’s the double-edged sword of cogsec, when you can stay secure by living in a lie. That’s why the security is not the goal, but the unshakable pursue of the quest, whatever that is for you. Security is there to keep you firmly on the path.
 
 Because of these mechanisms being hardcoded into us, cogsec techniques are always present. So, although we simplify it and say that you’re either cognitively secure or you're not, it's more precise to say that you either control your cognitive security or you don’t.
 
 There are plenty of reasons why you should care, but the main one is that this is what the game is. And if you don't want to win - I can't help you.
 
-We live in the early information era, where onslaught of information is barely beginning, but it already poses a challenge. Things were obvious, when the main threat was physical violence. Simple logic is that to win the game, you isolate yourself from the enemies, construct physical defenses like walls and houses, learn how to handle a weapon to make attacks on you more costly (or to initiate attacks yourself to disrupt the enemy), and then stick together with alike people to defend against bigger threats.
+We live in the early information era, where the onslaught of the information is barely beginning, but it already poses a challenge. Things were obvious, when the main threat was physical violence. Simple logic is that to win the game, you isolate yourself from the enemies, construct physical defenses like walls and houses, learn how to handle a weapon to make attacks on you more costly (or to initiate attacks yourself to disrupt the enemy), and then stick together with alike people to defend against bigger threats.
 
 Very simple.
 
 ![/postsFiles/cognitive-security/medievalVillage.jpg](/postsFiles/cognitive-security/medievalVillage.jpg)
 
-But today’s attacks are subtle. Insidious. Hidden. Often straight up masked so well, that they’re not commonly seen as threats. This is information era. Full of information warfare. There is more content, than you could ever possibly consume, even if you lived 1000 years. Actually, even if you were immortal. What are the consequences of that?
+But today’s attacks are subtle. Insidious. Hidden. Often straight up masked so well, that they’re not commonly seen as threats. This is information era. Full of information warfare. There is more content than you could ever possibly consume, even if you lived 1000 years. Actually, even if you were immortal. What are the consequences of that?
 
 Imagine that the food is free. Completely free. You can have EVERY POSSIBLE DISH. Wow. So much choice. In fact, more choice than you would ever need. At first you probably can’t believe your happiness and the abundance, but quickly the new game reveals itself. What do you actually eat? Like… In the long term?
 
-To a smaller degree, this is already happening with supermarkets. So much choice, but people are still eating garbage, simply because it’s pleasurable and fun. I know usually the unhealthy food is also cheaper, but it’s not the main driver. You can totally eat cheap and healthy, if you ignore the bio stuff. I’m also certain, that if all food was free, most people would still eat junk. Just like kids, who don’t understand the concept of money, but they sure do love anything with tons of sugar in it.
+To a smaller degree, this is already happening with supermarkets. So much choice, but people are still eating garbage, simply because it’s pleasurable and fun. I know usually unhealthy food is also cheaper, but it’s not the main driver. You can totally eat cheaply and healthily if you ignore the bio stuff. I’m also certain that if all food was free, most people would still eat junk. Just like kids, who don’t understand the concept of money, but they sure do love anything with tons of sugar in it.
 
 
 Oh right, we were talking about cognitive security. The food scenario is analogous to our information era situation, since in the world of abundance, you don’t eat what’s available. You eat what you pick. Deliberately. **You don’t want an algorithm whose sole purpose is to get you to eat as much as possible to decide on your diet.**
@@ -55,7 +55,7 @@ Cognitive Sovereignty is also a great term. I love independence. I love my free 
 Welcome to the basic guide on winning the information era.
 
 ### Pick your dataset
-For us - machine learning people - it’s obvious, that the quality of our neural networks depends on the quality of data we train it on. And for humans, the training never stops. You will always adapt, you will always form new memories, you can’t just disable the training mode.
+For us - machine learning people - it’s obvious that the quality of our neural networks depends on the quality of data we train it on. And for humans, the training never stops. You will always adapt, you will always form new memories, you can’t just disable the training mode.
 
 [![/postsFiles/cognitive-security/writeAccessTweet.png](/postsFiles/cognitive-security/writeAccessTweet.png)](https://x.com/BenRatkaj/status/1757100573692743723)
 
@@ -65,9 +65,9 @@ I’ll soon get to the concrete examples, but for now I’m still emphasizing th
 
 This is what differentiates live players from NPCs: do you shape your life, or does life just happen to you? It’s a neat distinction, but in reality it’s a spectrum and I’m pushing you to get closer to sitting behind the steering wheel.
 
-You being here already makes me more interested in you. Think of what we’re doing here. Instead of entertaining yourself with flashing saturated colors, you get to enjoy a background and some text. So boring. Background and text, my goodness. Background and text were still fresh, like when, in 16th century?
+You being here already makes me more interested in you. Think of what we’re doing here. Instead of entertaining yourself with flashing saturated colors, you get to enjoy a background and some text. So boring. Background and text, my goodness. Background and text were still fresh, like when, in the 16th century?
 
-But it matters a lot, that this is your choice. It gets us breathing room. Can you feel it? I get to transmit to you some crucial information, that is close to my heart. And you chose to receive it. It’s what cogsec is about – being deliberate and careful with what passes your cognitive firewall. Thanks for picking me.
+But it matters a lot, that this is your choice. It gets us breathing room. Can you feel it? I get to transmit to you some crucial information that is close to my heart. And you chose to receive it. It’s what cogsec is about – being deliberate and careful with what passes your cognitive firewall. Thanks for picking me.
 
 So, just as I treat information seriously, it is also a great honor for me to transmit my data all over the world for people to enjoy. In cogsec vocabulary, we can call my blog posts mind viruses, since the information wants to be hosted and multiplied.
 
@@ -83,11 +83,11 @@ Don’t even get me started on culture wars and how crucial it is to participate
 Since we now know how powerful is controlling your training data we can now get to the truth and ultimately – win the game.
 
 ### Discover the truth
-Winning is straightforward: you can’t win not knowing the rules of the game. You have to know the causes and effects. How do you expect to win without understanding the world?
+Winning is straightforward: you can’t win without knowing the rules of the game. You have to know the causes and effects. How do you expect to win without understanding the world?
 
 This is what truth gets you. You have to know WHAT IS. And what exactly did you hope for, that the truth will get delivered to you on a golden plate?
 
-Quite the contrary, the world doesn’t want you to know the truth. The easy times are over. We already know that there are trees and that sun rises and sets every day. We’re at a point, where to get to the truth, you have to have not only a ton of knowledge, but also competence, and a network of skilled friends, that are aligned with you. The complexity of the truth, the advancement of propaganda methodologies makes it only harder and harder.
+Quite the contrary, the world doesn’t want you to know the truth. The easy times are over. We already know that there are trees and that the sun rises and sets every day. We’re at a point, where to get to the truth, you have to have not only a ton of knowledge, but also competence, and a network of skilled friends, that are aligned with you. The complexity of the truth, the advancement of propaganda methodologies makes it only harder and harder.
 Read what George Hotz wrote about propaganda evolving.
 
 > How much spend would it take to change your vote? Okay, that’s too much to consider. How about, how much spend would it take to get you to change dish soap? Go to a different coffee shop?
@@ -156,9 +156,9 @@ At the end of 2023, there was a whole big situation with board members of OpenAI
 
 It was all very surprising. I saw one guy tweeting about being confused, so I thought I’d get involved and quote this tweet, saying that apparently they’re all confused and that it was abrupt and unfair. Can you feel the emotions? It’s also despicable to disable someone’s communication channels with no notice, so my injustice alarm was going off.
 
-And you have to admit, that Alex’s tweet looks really legit in the midst of all the chaos. But of course, it was completely made up. What a genius. I don’t approve of this, but man, I have to appreciate the skill. It also looks cool to be playing on everyone’s noses, jestering around like a master of psyops. But it’s not really my path, I’d rather focus on being immune to this.
+And you have to admit that Alex’s tweet looks really legit in the midst of all the chaos. But of course, it was completely made up. What a genius. I don’t approve of this, but man, I have to appreciate the skill. It also looks cool to be playing on everyone’s noses, jestering around like a master of psyops. But it’s not really my path, I’d rather focus on being immune to this.
 
-What was hard for me to take is, that I, a person who identifies with the “pursue of truth”, spread misinformation. I shared a fake tweet. Like any other person who follows the emotions without thinking anything through. Like all these annoying politicians and whatnot.
+What was hard for me to take is that I, a person who identifies with the “pursue of truth”, spread misinformation. I shared a fake tweet. Like any other person who follows the emotions without thinking anything through. Like all these annoying politicians and whatnot.
 
 It was enough for me to actually put some effort into this not happening again.
 
@@ -174,7 +174,7 @@ I was truly a cogsec casualty that day.
  
 [![/postsFiles/cognitive-security/cogsecCasualtiesTweet.png](/postsFiles/cognitive-security/cogsecCasualtiesTweet.png)](https://x.com/21e8ltd/status/1909831516252754308)
 
-But luckily, this time it was just an innocent funny trolling, so maybe this example doesn’t show you how serious the issue is, but there is information, that will alter your life path for the worse beyond recognition.
+But luckily, this time it was just innocent funny trolling, so maybe this example doesn’t show you how serious the issue is, but there is information that will alter your life path for the worse beyond recognition.
 
 My favorite tweet of all time is: “I saw the best minds of my generation destroyed by information.” *I can’t find it anywhere; it could’ve been an image*
 
@@ -190,13 +190,13 @@ For me, I think it all leads to becoming unshakable. It’s the cogsec ideal, th
 
 With that in mind, cognitive security is a whole philosophy school, like stoicism. It inspires me and I happily recognize high cogsec traits in people.
 
-Having high cognitive security is like being an unstoppable force. Make sure that that force has the right direction, and I’d sure love be around you and work with you.
+Having high cognitive security is like being an unstoppable force. Make sure that that force has the right direction, and I’d sure love to be around you and work with you.
 
 By definition *of my made-up word*, what moves the masses, does not move the unshakables.
 
 Sports? Celebrities? Dramas? Money? Movies? They could not care less. It’s all noise. Celebrities rise and fall constantly, sports teams rise and fall constantly, there is no meaning and no signal there, just pure entertainment. And sure, we all need some entertainment, but it doesn’t give our lives meaning or purpose.
 
-You’re unshakable when you’re not loyal to that noise. You’re unshakable when you’re loyal to the signal. And what is that signal is up to you, but somehow many people that I respect arrive at the same conclusion.
+You’re unshakable when you’re not loyal to that noise. You’re unshakable when you’re loyal to the signal. And what that signal is is up to you, but somehow many people that I respect arrive at the same conclusion.
 
 You’re also unshakable when you figured out the narrative and mastered human cognition. That includes applying correction terms for all the biases that exist.
 
