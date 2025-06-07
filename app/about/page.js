@@ -38,9 +38,8 @@ export default function AboutPage () {
             I like to play around to see what&apos;s possible.<br/><br/><br/>
 
 
-            My main career is in Machine Learning with specialization in Reinforcement Learning.
-            I build agents, that will one day beat all games imaginable.
-            By the day, I work as Machine Learning Engineer and deploy AI models for businesses.<br/><br/><br/>
+            My main career is as a Machine Learning Engineer with specialization in Reinforcement Learning.
+            I build agents, that will one day beat all games imaginable.<br/><br/>
 
 
             I studied Electrical and Computer Engineering and I got a max grade on my diploma,
@@ -48,7 +47,7 @@ export default function AboutPage () {
 
             Self-raised, self-taught, self-made. That&apos;s what the game is now.<br/><br/>
 
-            That way, I know what to do when nobody has any idea about what to do.
+            That way, I know what to do when nobody has any idea what to do.
             I know well how to step through the fog of war and make progress in any circumstances.
             I am antifragile.<br/><br/><br/>
 
