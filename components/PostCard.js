@@ -13,13 +13,14 @@ const PostCard = (props) => {
               alt={props.title}
               fill={true}
               className="rounded-md transform-gpu will-change-transform"
+              quality={100}
               priority
               loading="eager"
             />
           </div>
 
           <div className="flex flex-col w-full">
-            <h1 className="text-2xl font-bold ">{props.title}</h1>
+            <h1 className="text-2xl">{props.title}</h1>
             <p className="text-xl text-foreground-secondary">{props.subtitle}</p>
             <p className="text-sm text-foreground-secondary mt-4">{new Date(props.date).toLocaleDateString("en-GB")}</p>
           </div>
