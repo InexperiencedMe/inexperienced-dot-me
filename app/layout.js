@@ -1,7 +1,7 @@
 import "@/styles/globals.css";
 import { Header } from "@/components/Header";
 import { fredoka } from "@/styles/fonts";
-import { unstable_ViewTransition as ViewTransition } from "react";
+import { ViewTransition } from "react";
 
 export const metadata = {
   title: "Inexperienced Me",
