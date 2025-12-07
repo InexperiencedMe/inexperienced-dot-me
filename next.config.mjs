@@ -4,7 +4,6 @@ const nextConfig = {
     viewTransition: true,
   },
 
-  // 1. Keep Webpack for "next build"
   webpack(config) {
     const fileLoaderRule = config.module.rules.find((rule) =>
       rule.test?.test?.('.svg')
@@ -35,8 +34,6 @@ const nextConfig = {
           {
             loader: '@svgr/webpack',
             options: {
-              // This option forces the default export to be the component
-              // preventing the "undefined" error.
               exportType: 'default', 
               ref: true,
               svgo: true,
